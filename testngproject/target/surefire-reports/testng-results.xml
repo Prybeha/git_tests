@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="18935" started-at="2018-11-26T17:09:42Z" finished-at="2018-11-26T17:10:01Z">
+    <groups>
+      <group name="other">
+        <method signature="SecondTestClass.OtherTest()[pri:0, instance:SecondTestClass@47f6473]" name="OtherTest" class="SecondTestClass"/>
+      </group> <!-- other -->
+      <group name="first">
+        <method signature="TestClass.First()[pri:0, instance:TestClass@90f6bfd]" name="First" class="TestClass"/>
+      </group> <!-- first -->
+      <group name="second">
+        <method signature="TestClass.Second()[pri:0, instance:TestClass@90f6bfd]" name="Second" class="TestClass"/>
+      </group> <!-- second -->
+    </groups>
+    <test name="test1" duration-ms="18935" started-at="2018-11-26T17:09:42Z" finished-at="2018-11-26T17:10:01Z">
+      <class name="SecondTestClass">
+        <test-method status="PASS" signature="OtherTest()[pri:0, instance:SecondTestClass@47f6473]" name="OtherTest" duration-ms="1" started-at="2018-11-26T17:10:01Z" finished-at="2018-11-26T17:10:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OtherTest -->
+      </class> <!-- SecondTestClass -->
+      <class name="TestClass">
+        <test-method status="PASS" signature="BeforeActions()[pri:0, instance:TestClass@90f6bfd]" name="BeforeActions" is-config="true" duration-ms="6276" started-at="2018-11-26T17:09:42Z" finished-at="2018-11-26T17:09:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeActions -->
+        <test-method status="PASS" signature="First()[pri:0, instance:TestClass@90f6bfd]" name="First" duration-ms="33" started-at="2018-11-26T17:09:48Z" finished-at="2018-11-26T17:09:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- First -->
+        <test-method status="PASS" signature="AfterActions()[pri:0, instance:TestClass@90f6bfd]" name="AfterActions" is-config="true" duration-ms="882" started-at="2018-11-26T17:09:48Z" finished-at="2018-11-26T17:09:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterActions -->
+        <test-method status="PASS" signature="BeforeActions()[pri:0, instance:TestClass@90f6bfd]" name="BeforeActions" is-config="true" duration-ms="4481" started-at="2018-11-26T17:09:49Z" finished-at="2018-11-26T17:09:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeActions -->
+        <test-method status="PASS" signature="Second()[pri:0, instance:TestClass@90f6bfd]" name="Second" duration-ms="23" started-at="2018-11-26T17:09:54Z" finished-at="2018-11-26T17:09:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Second -->
+        <test-method status="PASS" signature="AfterActions()[pri:0, instance:TestClass@90f6bfd]" name="AfterActions" is-config="true" duration-ms="2165" started-at="2018-11-26T17:09:54Z" finished-at="2018-11-26T17:09:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterActions -->
+        <test-method status="PASS" signature="BeforeActions()[pri:0, instance:TestClass@90f6bfd]" name="BeforeActions" is-config="true" duration-ms="4206" started-at="2018-11-26T17:09:56Z" finished-at="2018-11-26T17:10:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeActions -->
+        <test-method status="PASS" signature="AfterActions()[pri:0, instance:TestClass@90f6bfd]" name="AfterActions" is-config="true" duration-ms="804" started-at="2018-11-26T17:10:00Z" finished-at="2018-11-26T17:10:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterActions -->
+        <test-method status="PASS" signature="Third()[pri:0, instance:TestClass@90f6bfd]" name="Third" duration-ms="0" started-at="2018-11-26T17:10:00Z" finished-at="2018-11-26T17:10:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Third -->
+      </class> <!-- TestClass -->
+    </test> <!-- test1 -->
+  </suite> <!-- Suite1 -->
+</testng-results>
