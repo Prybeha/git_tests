@@ -28,7 +28,7 @@ public class TestClass extends SetupClass{
     @Test(groups = {"second"})
     public void Second(){
         ExtentTestManager.getTest().setDescription("Second test");
-        Assert.assertEquals("1","2");
+        //Assert.assertEquals("1","2");
         System.out.println(driver.getCurrentUrl());
     }
 
