@@ -1,6 +1,11 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
 
 <suite name="Suite1" verbose="1" >
+    <listeners>
+        <listener class-name="utils.Listeners.TestListener"/>
+        <listener class-name="utils.Listeners.AnnotationTransformer"/>
+    </listeners>
+
     <test name="test1" >
         <!--<groups>-->
             <!--<run>-->
@@ -10,8 +15,7 @@
             <!--</run>-->
         <!--</groups>-->
         <classes>
-            <class name="TestClass"/>
-            <class name="SecondTestClass"/>
+            <class name="tests.TestClass"/>
         </classes>
     </test>
 </suite>

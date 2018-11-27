@@ -9,13 +9,14 @@
 <table>
 <tr><th>Test</th><th># Passed</th><th># Skipped</th><th># Failed</th><th>Time (ms)</th><th>Included Groups</th><th>Excluded Groups</th></tr>
 <tr><th colspan="7">Suite1</th></tr>
-<tr><td><a href="#t0">test1</a></td><td class="num">4</td><td class="num">0</td><td class="num">0</td><td class="num">32,098</td><td></td><td></td></tr>
+<tr><td><a href="#t0">test1</a></td><td class="num">2</td><td class="num">0</td><td class="num attn">1</td><td class="num">25,795</td><td></td><td></td></tr>
 </table>
-<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">Suite1</th></tr></tbody><tbody id="t0"><tr><th colspan="4">test1 &#8212; passed</th></tr><tr class="passedeven"><td rowspan="1">SecondTestClass</td><td><a href="#m0">OtherTest</a></td><td rowspan="1">1543321791268</td><td rowspan="1">0</td></tr><tr class="passedodd"><td rowspan="3">TestClass</td><td><a href="#m1">First</a></td><td rowspan="1">1543321770650</td><td rowspan="1">25</td></tr><tr class="passedodd"><td><a href="#m2">Second</a></td><td rowspan="1">1543321781957</td><td rowspan="1">10</td></tr><tr class="passedodd"><td><a href="#m3">Third</a></td><td rowspan="1">1543321790491</td><td rowspan="1">1</td></tr></tbody>
+<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">Suite1</th></tr></tbody><tbody id="t0"><tr><th colspan="4">test1 &#8212; failed</th></tr><tr class="failedeven"><td rowspan="1">tests.TestClass</td><td><a href="#m0">Second</a></td><td rowspan="1">1543329834687</td><td rowspan="1">4</td></tr><tr><th colspan="4">test1 &#8212; passed</th></tr><tr class="passedeven"><td rowspan="2">tests.TestClass</td><td><a href="#m1">First</a></td><td rowspan="1">1543329826986</td><td rowspan="1">236</td></tr><tr class="passedeven"><td><a href="#m2">Third</a></td><td rowspan="1">1543329844001</td><td rowspan="1">1</td></tr></tbody>
 </table>
-<h2>test1</h2><h3 id="m0">SecondTestClass#OtherTest</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
-<h3 id="m1">TestClass#First</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
-<h3 id="m2">TestClass#Second</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
-<h3 id="m3">TestClass#Third</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h2>test1</h2><h3 id="m0">tests.TestClass#Second</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">java.lang.AssertionError: expected [2] but found [1]
+	at tests.TestClass.Second(TestClass.java:31)
+... Removed 35 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m1">tests.TestClass#First</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m2">tests.TestClass#Third</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
 </body>
 </html>

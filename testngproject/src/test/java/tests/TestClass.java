@@ -1,24 +1,15 @@
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
+package tests;
+
 import org.openqa.selenium.support.ui.ExpectedConditions;
-import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
 import org.testng.annotations.*;
+import utils.ExtentsReports.ExtentTestManager;
 
-public class TestClass {
-    private static WebDriver driver;
-    private static WebDriverWait wait;
-
-    @BeforeMethod
-    public static void BeforeActions(){
-        System.setProperty("webdriver.chrome.driver", "C:\\SeleniumDrivers\\chromedriver.exe");
-        driver = new ChromeDriver();
-        wait = new WebDriverWait(driver,5);
-        driver.get("http://google.in");
-    }
+public class TestClass extends SetupClass{
 
     @Test(groups = {"first"})
     public void First(){
+        ExtentTestManager.getTest().setDescription("First test");
         wait.until(ExpectedConditions.titleIs("Google"));
         String Expectedtitle = "Google";
         String Actualtitle = driver.getTitle();
@@ -36,17 +27,14 @@ public class TestClass {
 
     @Test(groups = {"second"})
     public void Second(){
-        //Assert.assertEquals("1","2");
+        ExtentTestManager.getTest().setDescription("Second test");
+        Assert.assertEquals("1","2");
         System.out.println(driver.getCurrentUrl());
     }
 
-    @Test
+    @Test(groups = {"third"})
     public void Third(){
+        ExtentTestManager.getTest().setDescription("First test");
         System.out.println("Third test is started");
-    }
-
-    @AfterMethod
-    public static void AfterActions(){
-        driver.quit();
     }
 }
