@@ -1,7 +1,0 @@
-utils\ExtentsReports\ExtentManager.class
-utils\ExtentsReports\ExtentTestManager.class
-tests\TestClass.class
-utils\Listeners\Retry.class
-utils\Listeners\TestListener.class
-utils\Listeners\AnnotationTransformer.class
-tests\SetupClass.class
