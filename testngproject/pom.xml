@@ -43,9 +43,19 @@
             <version>2.0</version>
         </dependency>
         <dependency>
-            <groupId>br.eti.kinoshita</groupId>
-            <artifactId>testlink-java-api</artifactId>
-            <version>1.9.16-2</version>
+            <groupId>ws.commons.util</groupId>
+            <artifactId>ws-commons-util</artifactId>
+            <version>1.0.2</version>
+        </dependency>
+        <dependency>
+            <groupId>xmlrpc.client</groupId>
+            <artifactId>xmlrpc-client</artifactId>
+            <version>3.1</version>
+        </dependency>
+        <dependency>
+            <groupId>xmlrpc.common</groupId>
+            <artifactId>xmlrpc-common</artifactId>
+            <version>3.1</version>
         </dependency>
     </dependencies>
 

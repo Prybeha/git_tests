@@ -2,53 +2,53 @@
 <testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite1" duration-ms="23262" started-at="2018-11-29T12:12:36Z" finished-at="2018-11-29T12:12:59Z">
+  <suite name="Suite1" duration-ms="25565" started-at="2018-11-29T13:02:00Z" finished-at="2018-11-29T13:02:25Z">
     <groups>
       <group name="third">
-        <method signature="TestClass.Third()[pri:0, instance:tests.TestClass@153f5a29]" name="Third" class="tests.TestClass"/>
+        <method signature="TestClass.Third()[pri:0, instance:tests.TestClass@5a61f5df]" name="Third" class="tests.TestClass"/>
       </group> <!-- third -->
       <group name="first">
-        <method signature="TestClass.First()[pri:0, instance:tests.TestClass@153f5a29]" name="First" class="tests.TestClass"/>
+        <method signature="TestClass.First()[pri:0, instance:tests.TestClass@5a61f5df]" name="First" class="tests.TestClass"/>
       </group> <!-- first -->
       <group name="second">
-        <method signature="TestClass.Second()[pri:0, instance:tests.TestClass@153f5a29]" name="Second" class="tests.TestClass"/>
+        <method signature="TestClass.Second()[pri:0, instance:tests.TestClass@5a61f5df]" name="Second" class="tests.TestClass"/>
       </group> <!-- second -->
     </groups>
-    <test name="test1" duration-ms="23262" started-at="2018-11-29T12:12:36Z" finished-at="2018-11-29T12:12:59Z">
+    <test name="test1" duration-ms="25565" started-at="2018-11-29T13:02:00Z" finished-at="2018-11-29T13:02:25Z">
       <class name="tests.TestClass">
-        <test-method status="PASS" signature="setup()[pri:0, instance:tests.TestClass@153f5a29]" name="setup" is-config="true" duration-ms="5816" started-at="2018-11-29T12:12:36Z" finished-at="2018-11-29T12:12:42Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:tests.TestClass@5a61f5df]" name="setup" is-config="true" duration-ms="6415" started-at="2018-11-29T13:02:00Z" finished-at="2018-11-29T13:02:06Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="First()[pri:0, instance:tests.TestClass@153f5a29]" name="First" duration-ms="3173" started-at="2018-11-29T12:12:42Z" finished-at="2018-11-29T12:12:45Z">
+        <test-method status="PASS" signature="First()[pri:0, instance:tests.TestClass@5a61f5df]" name="First" duration-ms="3123" started-at="2018-11-29T13:02:06Z" finished-at="2018-11-29T13:02:09Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- First -->
-        <test-method status="PASS" signature="teardown()[pri:0, instance:tests.TestClass@153f5a29]" name="teardown" is-config="true" duration-ms="940" started-at="2018-11-29T12:12:45Z" finished-at="2018-11-29T12:12:46Z">
+        <test-method status="PASS" signature="teardown()[pri:0, instance:tests.TestClass@5a61f5df]" name="teardown" is-config="true" duration-ms="897" started-at="2018-11-29T13:02:09Z" finished-at="2018-11-29T13:02:10Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-        <test-method status="PASS" signature="setup()[pri:0, instance:tests.TestClass@153f5a29]" name="setup" is-config="true" duration-ms="5269" started-at="2018-11-29T12:12:46Z" finished-at="2018-11-29T12:12:51Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:tests.TestClass@5a61f5df]" name="setup" is-config="true" duration-ms="5376" started-at="2018-11-29T13:02:10Z" finished-at="2018-11-29T13:02:16Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="Second()[pri:0, instance:tests.TestClass@153f5a29]" name="Second" duration-ms="11" started-at="2018-11-29T12:12:51Z" finished-at="2018-11-29T12:12:51Z">
+        <test-method status="PASS" signature="Second()[pri:0, instance:tests.TestClass@5a61f5df]" name="Second" duration-ms="2737" started-at="2018-11-29T13:02:16Z" finished-at="2018-11-29T13:02:18Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Second -->
-        <test-method status="PASS" signature="teardown()[pri:0, instance:tests.TestClass@153f5a29]" name="teardown" is-config="true" duration-ms="829" started-at="2018-11-29T12:12:51Z" finished-at="2018-11-29T12:12:52Z">
+        <test-method status="PASS" signature="teardown()[pri:0, instance:tests.TestClass@5a61f5df]" name="teardown" is-config="true" duration-ms="786" started-at="2018-11-29T13:02:18Z" finished-at="2018-11-29T13:02:19Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-        <test-method status="PASS" signature="setup()[pri:0, instance:tests.TestClass@153f5a29]" name="setup" is-config="true" duration-ms="5459" started-at="2018-11-29T12:12:52Z" finished-at="2018-11-29T12:12:57Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:tests.TestClass@5a61f5df]" name="setup" is-config="true" duration-ms="5385" started-at="2018-11-29T13:02:19Z" finished-at="2018-11-29T13:02:25Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="Third()[pri:0, instance:tests.TestClass@153f5a29]" name="Third" duration-ms="212" started-at="2018-11-29T12:12:57Z" finished-at="2018-11-29T12:12:58Z">
+        <test-method status="PASS" signature="Third()[pri:0, instance:tests.TestClass@5a61f5df]" name="Third" duration-ms="12" started-at="2018-11-29T13:02:25Z" finished-at="2018-11-29T13:02:25Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Third -->
-        <test-method status="PASS" signature="teardown()[pri:0, instance:tests.TestClass@153f5a29]" name="teardown" is-config="true" duration-ms="1508" started-at="2018-11-29T12:12:58Z" finished-at="2018-11-29T12:12:59Z">
+        <test-method status="PASS" signature="teardown()[pri:0, instance:tests.TestClass@5a61f5df]" name="teardown" is-config="true" duration-ms="794" started-at="2018-11-29T13:02:25Z" finished-at="2018-11-29T13:02:25Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
