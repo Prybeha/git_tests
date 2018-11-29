@@ -23,10 +23,10 @@ public class TestClass extends SetupClass {
     public void First() throws Exception{
         ExtentTestManager.getTest().setDescription("First test");
         wait.until(ExpectedConditions.titleIs("Google"));
-        String Expectedtitle = "Google";
+        String Expectedtitle = "Google123";
         String Actualtitle = driver.getTitle();
         try {
-            //assert Actualtitle.equals(Expectedtitle);
+            assert Actualtitle.equals(Expectedtitle);
             result = TestLinkAPIResults.TEST_PASSED;
             updateTestLinkResult("FirstTestCase", exception, result);
         }
