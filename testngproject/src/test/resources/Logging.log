@@ -1,0 +1,16 @@
+2018-11-30 19:03:42 INFO  TestLinkResults:29 - Test case is passed
+2018-11-30 19:03:53 INFO  TestLinkResults:29 - Test case is passed
+2018-11-30 19:04:00 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-11-30 19:04:00 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-11-30 19:04:00 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-11-30 19:04:00 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-11-30 19:04:00 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/vprybeha/AppData/Local/Temp/surefire4392090133191796062/..%5C..%5C..%5C..%5C.m2%5Crepository%5Ccom%5Crelevantcodes%5Cextentreports%5C2.41.2%5Cextentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-11-30 19:06:39 ERROR TestLinkResults:23 - Test case is failed
+2018-11-30 19:06:50 INFO  TestLinkResults:29 - Test case is passed
+2018-11-30 19:06:59 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-11-30 19:06:59 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-11-30 19:06:59 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-11-30 19:06:59 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-11-30 19:06:59 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/vprybeha/AppData/Local/Temp/surefire7414804953724032206/..%5C..%5C..%5C..%5C.m2%5Crepository%5Ccom%5Crelevantcodes%5Cextentreports%5C2.41.2%5Cextentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-11-30 19:10:41 ERROR TestLinkResults:23 - Test case is failed
+2018-11-30 19:10:53 INFO  TestLinkResults:29 - Test case is passed

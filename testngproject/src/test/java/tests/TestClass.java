@@ -16,7 +16,7 @@ public class TestClass extends SetupClass {
         String Expectedtitle = "Google123";
         String Actualtitle = driver.getTitle();
         try {
-            //assert Actualtitle.equals(Expectedtitle);
+            assert Actualtitle.equals(Expectedtitle);
             Test.TestLinkPass("FirstTestCase");
         }
         catch(AssertionError ex){
