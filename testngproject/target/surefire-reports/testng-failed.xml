@@ -5,15 +5,18 @@
     <listener class-name="utils.Listeners.TestListener"/>
     <listener class-name="utils.Listeners.AnnotationTransformer"/>
   </listeners>
-  <test thread-count="5" verbose="0" name="test1(failed)">
+  <test thread-count="5" verbose="0" name="FirefoxTests(failed)">
+    <parameter name="browser" value="firefox"/>
     <classes>
       <class name="tests.TestClass">
         <methods>
           <include name="First"/>
           <include name="teardown"/>
           <include name="setup"/>
+          <include name="Second"/>
+          <include name="Third"/>
         </methods>
       </class> <!-- tests.TestClass -->
     </classes>
-  </test> <!-- test1(failed) -->
+  </test> <!-- FirefoxTests(failed) -->
 </suite> <!-- Failed suite [Suite1] -->

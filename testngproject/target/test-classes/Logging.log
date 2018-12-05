@@ -12,3 +12,129 @@
 2018-11-30 19:06:59 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
 2018-11-30 19:06:59 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
 2018-11-30 19:06:59 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/vprybeha/AppData/Local/Temp/surefire7414804953724032206/..%5C..%5C..%5C..%5C.m2%5Crepository%5Ccom%5Crelevantcodes%5Cextentreports%5C2.41.2%5Cextentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-11-30 19:10:41 ERROR TestLinkResults:23 - Test case is failed
+2018-11-30 19:10:53 INFO  TestLinkResults:29 - Test case is passed
+2018-11-30 19:25:32 INFO  TestLinkResults:29 - Test case is passed
+2018-11-30 19:25:48 INFO  TestLinkResults:29 - Test case is passed
+2018-11-30 19:29:28 INFO  TestLinkResults:29 - Test case is passed
+2018-11-30 19:29:40 INFO  TestLinkResults:29 - Test case is passed
+2018-12-05 16:07:15 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-12-05 16:07:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-12-05 16:07:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-12-05 16:07:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-12-05 16:07:15 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/vprybeha/AppData/Local/Temp/surefire409589814767276355/..%5C..%5C..%5C..%5C.m2%5Crepository%5Ccom%5Crelevantcodes%5Cextentreports%5C2.41.2%5Cextentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-12-05 16:51:29 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-12-05 16:51:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-12-05 16:51:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-12-05 16:51:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-12-05 16:51:29 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/vprybeha/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-12-05 17:02:41 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-12-05 17:02:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-12-05 17:02:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-12-05 17:02:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-12-05 17:02:41 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/vprybeha/AppData/Local/Temp/surefire697581288568647854/..%5C..%5C..%5C..%5C.m2%5Crepository%5Ccom%5Crelevantcodes%5Cextentreports%5C2.41.2%5Cextentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-12-05 17:03:37 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-12-05 17:03:37 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-12-05 17:03:37 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-12-05 17:03:37 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-12-05 17:03:37 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/vprybeha/AppData/Local/Temp/surefire8314813150083813926/..%5C..%5C..%5C..%5C.m2%5Crepository%5Ccom%5Crelevantcodes%5Cextentreports%5C2.41.2%5Cextentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-12-05 17:03:38 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-12-05 17:03:38 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-12-05 17:03:38 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-12-05 17:03:38 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-12-05 17:03:38 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/vprybeha/AppData/Local/Temp/surefire8314813150083813926/..%5C..%5C..%5C..%5C.m2%5Crepository%5Ccom%5Crelevantcodes%5Cextentreports%5C2.41.2%5Cextentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-12-05 17:08:59 INFO  TestLinkResults:29 - Test case is passed
+2018-12-05 17:09:09 INFO  TestLinkResults:29 - Test case is passed
+2018-12-05 17:09:16 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-12-05 17:09:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-12-05 17:09:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-12-05 17:09:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-12-05 17:09:16 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/vprybeha/AppData/Local/Temp/surefire4768063400038192341/..%5C..%5C..%5C..%5C.m2%5Crepository%5Ccom%5Crelevantcodes%5Cextentreports%5C2.41.2%5Cextentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-12-05 17:09:16 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-12-05 17:09:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-12-05 17:09:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-12-05 17:09:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-12-05 17:09:16 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/vprybeha/AppData/Local/Temp/surefire4768063400038192341/..%5C..%5C..%5C..%5C.m2%5Crepository%5Ccom%5Crelevantcodes%5Cextentreports%5C2.41.2%5Cextentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-12-05 17:14:44 INFO  TestLinkResults:29 - Test case is passed
+2018-12-05 17:14:56 INFO  TestLinkResults:29 - Test case is passed
+2018-12-05 17:15:05 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-12-05 17:15:05 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-12-05 17:15:05 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-12-05 17:15:05 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-12-05 17:15:05 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/vprybeha/AppData/Local/Temp/surefire7546194453740495978/..%5C..%5C..%5C..%5C.m2%5Crepository%5Ccom%5Crelevantcodes%5Cextentreports%5C2.41.2%5Cextentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-12-05 17:15:43 INFO  TestLinkResults:29 - Test case is passed
+2018-12-05 17:16:01 INFO  TestLinkResults:29 - Test case is passed
+2018-12-05 17:16:17 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-12-05 17:16:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-12-05 17:16:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-12-05 17:16:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-12-05 17:16:17 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/vprybeha/AppData/Local/Temp/surefire7546194453740495978/..%5C..%5C..%5C..%5C.m2%5Crepository%5Ccom%5Crelevantcodes%5Cextentreports%5C2.41.2%5Cextentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-12-05 17:23:02 INFO  TestLinkResults:29 - Test case is passed
+2018-12-05 17:23:13 INFO  TestLinkResults:29 - Test case is passed
+2018-12-05 17:23:21 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-12-05 17:23:21 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-12-05 17:23:21 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-12-05 17:23:21 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-12-05 17:23:21 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/vprybeha/AppData/Local/Temp/surefire677488094309159078/..%5C..%5C..%5C..%5C.m2%5Crepository%5Ccom%5Crelevantcodes%5Cextentreports%5C2.41.2%5Cextentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-12-05 17:23:34 INFO  TestLinkResults:29 - Test case is passed
+2018-12-05 17:23:47 INFO  TestLinkResults:29 - Test case is passed
+2018-12-05 17:23:59 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-12-05 17:23:59 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-12-05 17:23:59 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-12-05 17:23:59 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-12-05 17:23:59 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/vprybeha/AppData/Local/Temp/surefire677488094309159078/..%5C..%5C..%5C..%5C.m2%5Crepository%5Ccom%5Crelevantcodes%5Cextentreports%5C2.41.2%5Cextentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-12-05 17:24:39 INFO  TestLinkResults:29 - Test case is passed
+2018-12-05 17:24:48 INFO  TestLinkResults:29 - Test case is passed
+2018-12-05 17:24:54 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-12-05 17:24:54 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-12-05 17:24:54 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-12-05 17:24:54 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-12-05 17:24:54 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/vprybeha/AppData/Local/Temp/surefire6091741487022025147/..%5C..%5C..%5C..%5C.m2%5Crepository%5Ccom%5Crelevantcodes%5Cextentreports%5C2.41.2%5Cextentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-12-05 17:25:07 INFO  TestLinkResults:29 - Test case is passed
+2018-12-05 17:25:21 INFO  TestLinkResults:29 - Test case is passed
+2018-12-05 17:25:36 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-12-05 17:25:36 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-12-05 17:25:36 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-12-05 17:25:36 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-12-05 17:25:36 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/vprybeha/AppData/Local/Temp/surefire6091741487022025147/..%5C..%5C..%5C..%5C.m2%5Crepository%5Ccom%5Crelevantcodes%5Cextentreports%5C2.41.2%5Cextentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-12-05 17:29:03 INFO  TestLinkResults:29 - Test case is passed
+2018-12-05 17:29:13 INFO  TestLinkResults:29 - Test case is passed
+2018-12-05 17:29:24 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-12-05 17:29:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-12-05 17:29:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-12-05 17:29:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-12-05 17:29:24 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/vprybeha/AppData/Local/Temp/surefire7360843362261972494/..%5C..%5C..%5C..%5C.m2%5Crepository%5Ccom%5Crelevantcodes%5Cextentreports%5C2.41.2%5Cextentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-12-05 17:29:37 INFO  TestLinkResults:29 - Test case is passed
+2018-12-05 17:29:40 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-12-05 17:29:40 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-12-05 17:29:40 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-12-05 17:29:40 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-12-05 17:29:40 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/vprybeha/AppData/Local/Temp/surefire7360843362261972494/..%5C..%5C..%5C..%5C.m2%5Crepository%5Ccom%5Crelevantcodes%5Cextentreports%5C2.41.2%5Cextentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-12-05 17:31:07 INFO  TestLinkResults:29 - Test case is passed
+2018-12-05 17:31:20 INFO  TestLinkResults:29 - Test case is passed
+2018-12-05 17:31:29 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-12-05 17:31:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-12-05 17:31:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-12-05 17:31:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-12-05 17:31:29 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/vprybeha/AppData/Local/Temp/surefire8498688448134744289/..%5C..%5C..%5C..%5C.m2%5Crepository%5Ccom%5Crelevantcodes%5Cextentreports%5C2.41.2%5Cextentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-12-05 17:31:44 INFO  TestLinkResults:29 - Test case is passed
+2018-12-05 17:32:01 INFO  TestLinkResults:29 - Test case is passed
+2018-12-05 17:32:16 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-12-05 17:32:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-12-05 17:32:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-12-05 17:32:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-12-05 17:32:16 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/vprybeha/AppData/Local/Temp/surefire8498688448134744289/..%5C..%5C..%5C..%5C.m2%5Crepository%5Ccom%5Crelevantcodes%5Cextentreports%5C2.41.2%5Cextentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-12-05 17:33:53 INFO  TestLinkResults:29 - Test case is passed
+2018-12-05 17:34:03 INFO  TestLinkResults:29 - Test case is passed
+2018-12-05 17:34:12 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-12-05 17:34:12 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-12-05 17:34:12 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-12-05 17:34:12 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-12-05 17:34:12 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/vprybeha/AppData/Local/Temp/surefire8386252130427073328/..%5C..%5C..%5C..%5C.m2%5Crepository%5Ccom%5Crelevantcodes%5Cextentreports%5C2.41.2%5Cextentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-12-05 17:34:24 INFO  TestLinkResults:29 - Test case is passed
+2018-12-05 17:34:36 INFO  TestLinkResults:29 - Test case is passed
+2018-12-05 17:34:48 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-12-05 17:34:48 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-12-05 17:34:48 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-12-05 17:34:48 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-12-05 17:34:48 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/vprybeha/AppData/Local/Temp/surefire8386252130427073328/..%5C..%5C..%5C..%5C.m2%5Crepository%5Ccom%5Crelevantcodes%5Cextentreports%5C2.41.2%5Cextentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"

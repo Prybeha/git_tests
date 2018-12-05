@@ -6,7 +6,7 @@
         <listener class-name="utils.Listeners.AnnotationTransformer"/>
     </listeners>
 
-    <test name="test1" >
+    <test name="ChromeTests" >
         <!--<groups>-->
             <!--<run>-->
                 <!--<include name="first"/>-->
@@ -14,8 +14,15 @@
                 <!--<include name="other"/>-->
             <!--</run>-->
         <!--</groups>-->
+        <parameter name="browser" value="chrome" />
         <classes>
             <class name="tests.TestClass"/>
         </classes>
     </test>
+    <!--<test name="FirefoxTests" >-->
+        <!--<parameter name="browser" value="firefox" />-->
+        <!--<classes>-->
+            <!--<class name="tests.TestClass"/>-->
+        <!--</classes>-->
+    <!--</test>-->
 </suite>
