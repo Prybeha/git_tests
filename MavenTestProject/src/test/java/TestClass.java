@@ -26,7 +26,7 @@ public class TestClass {
         wait.until(ExpectedConditions.titleIs("Google"));
         String title = driver.getTitle();
         LogUtil.log("Title Fetched: "+title);
-        assertEquals(title,"Google");
+        assertEquals(title,"Google123");
         LogUtil.log("Test Passed. Expected: Google | Actual: "+title);
         System.out.println("Page Loaded");
     }
