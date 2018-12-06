@@ -1,7 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0272c4cd-e055-4a64-927f-ea97949a0b71" name="Default Changelist" comment="" />
+    <list default="true" id="0272c4cd-e055-4a64-927f-ea97949a0b71" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/LogUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/testng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MavenTestProject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/TestClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TestClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testngproject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../testngproject/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testngproject/ExtentReports/ExtentReportResults.html" beforeDir="false" afterPath="$PROJECT_DIR$/../testngproject/ExtentReports/ExtentReportResults.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testngproject/src/test/java/tests/TestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../testngproject/src/test/java/tests/TestClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testngproject/src/test/resources/Logging.log" beforeDir="false" afterPath="$PROJECT_DIR$/../testngproject/src/test/resources/Logging.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testngproject/target/MavenTestProject-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../testngproject/target/MavenTestProject-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testngproject/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../testngproject/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testngproject/target/surefire-reports/2018-12-06T11-58-57_642.dump" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testngproject/target/surefire-reports/2018-12-06T12-10-09_327.dump" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testngproject/target/surefire-reports/Suite1/ChromeTests.html" beforeDir="false" afterPath="$PROJECT_DIR$/../testngproject/target/surefire-reports/Suite1/ChromeTests.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testngproject/target/surefire-reports/Suite1/ChromeTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../testngproject/target/surefire-reports/Suite1/ChromeTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testngproject/target/surefire-reports/TEST-TestSuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../testngproject/target/surefire-reports/TEST-TestSuite.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testngproject/target/surefire-reports/TestSuite.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../testngproject/target/surefire-reports/TestSuite.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testngproject/target/surefire-reports/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/../testngproject/target/surefire-reports/emailable-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testngproject/target/surefire-reports/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../testngproject/target/surefire-reports/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testngproject/target/surefire-reports/junitreports/TEST-tests.TestClass.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../testngproject/target/surefire-reports/junitreports/TEST-tests.TestClass.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testngproject/target/surefire-reports/old/Suite1/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/../testngproject/target/surefire-reports/old/Suite1/methods-alphabetical.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testngproject/target/surefire-reports/old/Suite1/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/../testngproject/target/surefire-reports/old/Suite1/methods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testngproject/target/surefire-reports/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../testngproject/target/surefire-reports/testng-results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testngproject/target/test-classes/Logging.log" beforeDir="false" afterPath="$PROJECT_DIR$/../testngproject/target/test-classes/Logging.log" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,53 +42,13 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/MavenTestProject$TestClass.ic" NAME="TestClass Coverage Results" MODIFIED="1543228469070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-1576548956">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="2" />
-          <entry key="project.open.time.37" value="1" />
-          <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="class" value="4" />
-          <entry key="iml" value="4" />
-          <entry key="java" value="5" />
-          <entry key="xml" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="CLASS" value="4" />
-          <entry key="IDEA_MODULE" value="4" />
-          <entry key="JAVA" value="5" />
-          <entry key="XML" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="34" />
-          <entry key="xml" value="58" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="34" />
-          <entry key="XML" value="58" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="46" selection-end-column="10" />
+            <state relative-caret-position="68">
+              <caret line="37" column="21" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -67,11 +56,31 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+            <state relative-caret-position="249">
+              <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#1064#1065#0" expanded="true" />
+                <element signature="e#1093#1094#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/LogUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/testng.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -81,17 +90,13 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="AnnotationType" />
+        <option value="Class" />
       </list>
     </option>
   </component>
-  <component name="GradleLocalSettings">
-    <option name="projectSyncType">
-      <map>
-        <entry key="$PROJECT_DIR$/../../SeriesOne" value="PREVIEW" />
-      </map>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -99,21 +104,53 @@
         <option value="$PROJECT_DIR$/src/main/java/BeforeClass.java" />
         <option value="$PROJECT_DIR$/src/test/java/TestNGClass.java" />
         <option value="$PROJECT_DIR$/testng.xml" />
+        <option value="$PROJECT_DIR$/src/test/resources/testng.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/LogUtil.java" />
         <option value="$PROJECT_DIR$/src/test/java/TestClass.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="MavenTestProject" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="MavenTestProject" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="MavenTestProject" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="528" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -136,17 +173,37 @@
             <path>
               <item name="MavenTestProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="MavenTestProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MavenTestProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MavenTestProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MavenTestProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MavenTestProject" type="462c0819:PsiDirectoryNode" />
               <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MavenTestProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MavenTestProject" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="allure-results" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543233149770" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544098946981" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15039062" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -169,7 +226,7 @@
     </option>
   </component>
   <component name="RunManager" selected="TestNG.TestClass">
-    <configuration name="TestClass" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestClass" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="MavenTestProject" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="TestClass" />
@@ -179,7 +236,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestNGClass" type="TestNG" factoryName="TestNG" nameIsGenerated="true">
+    <configuration name="TestNGClass" type="TestNG" nameIsGenerated="true">
       <module name="MavenTestProject" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="TestNGClass" />
@@ -189,7 +246,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="&lt;default&gt; (1)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="&lt;default&gt; (1)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="MavenTestProject" />
       <option name="PACKAGE_NAME" value="" />
       <option name="TEST_OBJECT" value="PACKAGE" />
@@ -199,7 +256,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="&lt;default&gt; (2)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="&lt;default&gt; (2)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="MavenTestProject" />
       <option name="PACKAGE_NAME" value="" />
       <option name="TEST_OBJECT" value="PACKAGE" />
@@ -209,7 +266,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="&lt;default&gt; (4)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="&lt;default&gt; (4)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="MavenTestProject" />
       <option name="PACKAGE_NAME" value="" />
       <option name="TEST_OBJECT" value="PACKAGE" />
@@ -219,7 +276,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="&lt;default&gt;" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="&lt;default&gt;" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="MavenTestProject" />
       <option name="PACKAGE_NAME" value="" />
       <option name="TEST_OBJECT" value="PACKAGE" />
@@ -303,8 +360,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -313,16 +371,16 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6881663" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6876333" visible="true" weight="0.32900432" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32936078" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.31183368" side_tool="true" visible="true" weight="0.32936078" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.31236672" side_tool="true" visible="true" weight="0.32900432" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32936078" />
-      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.32995737" />
+      <window_info anchor="right" id="Maven" visible="true" weight="0.13059701" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -331,22 +389,14 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.32995737" />
     </layout>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/test/java/test.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/BeforeClass.java" />
     <entry file="file://$PROJECT_DIR$/target/test-classes/TestNGClass.class" />
-    <entry file="file://$PROJECT_DIR$/../projects/S1_autotest/src/test/java/SetupClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="2" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../projects/S1_autotest/src/test/java/SetupClass.java" />
     <entry file="file://$PROJECT_DIR$/target/test-classes/TestClass.class">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -358,16 +408,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/testng.xml" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/TestClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MavenTestProject.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -375,10 +415,54 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/allure-results/29e2bcb6-0697-48c0-83a9-e58813a29988-container.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/allure-results/95366531-e188-4554-8321-ac8613d7ad6a-container.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/allure-results/ca66f106-b664-403d-b53f-e516e9672422-result.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/allure-results/fe068364-9fa3-483f-878d-73fa6e3cd7b7-container.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/allure-results/853b8677-c5f6-405d-83c2-541a1d8d4ca8-result.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/allure-results/552b33ee-19ff-4037-ba0f-f61ed73d2a76-container.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/LogUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1064#1065#0" expanded="true" />
+            <element signature="e#1093#1094#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="46" selection-end-column="10" />
+        <state relative-caret-position="68">
+          <caret line="37" column="21" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
         </state>
       </provider>
     </entry>

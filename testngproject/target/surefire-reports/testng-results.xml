@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite1" duration-ms="38900" started-at="2018-12-06T10:10:13Z" finished-at="2018-12-06T10:10:52Z">
+  <suite name="Suite1" duration-ms="23249" started-at="2018-12-06T10:36:53Z" finished-at="2018-12-06T10:37:17Z">
     <groups>
     </groups>
-    <test name="ChromeTests" duration-ms="38900" started-at="2018-12-06T10:10:13Z" finished-at="2018-12-06T10:10:52Z">
+    <test name="ChromeTests" duration-ms="23249" started-at="2018-12-06T10:36:53Z" finished-at="2018-12-06T10:37:17Z">
       <class name="tests.TestClass">
-        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:tests.TestClass@27efef64]" name="setup" is-config="true" duration-ms="14570" started-at="2018-12-06T10:10:13Z" finished-at="2018-12-06T10:10:27Z">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:tests.TestClass@27efef64]" name="setup" is-config="true" duration-ms="5741" started-at="2018-12-06T10:36:53Z" finished-at="2018-12-06T10:36:59Z">
           <params>
             <param index="0">
               <value>
@@ -18,15 +18,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="First()[pri:0, instance:tests.TestClass@27efef64]" name="First" duration-ms="3714" started-at="2018-12-06T10:10:27Z" finished-at="2018-12-06T10:10:31Z">
+        <test-method status="PASS" signature="First()[pri:0, instance:tests.TestClass@27efef64]" name="First" duration-ms="2869" started-at="2018-12-06T10:36:59Z" finished-at="2018-12-06T10:37:02Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- First -->
-        <test-method status="PASS" signature="teardown()[pri:0, instance:tests.TestClass@27efef64]" name="teardown" is-config="true" duration-ms="825" started-at="2018-12-06T10:10:31Z" finished-at="2018-12-06T10:10:32Z">
+        <test-method status="PASS" signature="teardown()[pri:0, instance:tests.TestClass@27efef64]" name="teardown" is-config="true" duration-ms="803" started-at="2018-12-06T10:37:02Z" finished-at="2018-12-06T10:37:03Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:tests.TestClass@27efef64]" name="setup" is-config="true" duration-ms="8183" started-at="2018-12-06T10:10:32Z" finished-at="2018-12-06T10:10:40Z">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:tests.TestClass@27efef64]" name="setup" is-config="true" duration-ms="4629" started-at="2018-12-06T10:37:03Z" finished-at="2018-12-06T10:37:07Z">
           <params>
             <param index="0">
               <value>
@@ -37,15 +37,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="Second()[pri:0, instance:tests.TestClass@27efef64]" name="Second" duration-ms="2809" started-at="2018-12-06T10:10:40Z" finished-at="2018-12-06T10:10:43Z">
+        <test-method status="PASS" signature="Second()[pri:0, instance:tests.TestClass@27efef64]" name="Second" duration-ms="2945" started-at="2018-12-06T10:37:07Z" finished-at="2018-12-06T10:37:10Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Second -->
-        <test-method status="PASS" signature="teardown()[pri:0, instance:tests.TestClass@27efef64]" name="teardown" is-config="true" duration-ms="898" started-at="2018-12-06T10:10:43Z" finished-at="2018-12-06T10:10:44Z">
+        <test-method status="PASS" signature="teardown()[pri:0, instance:tests.TestClass@27efef64]" name="teardown" is-config="true" duration-ms="833" started-at="2018-12-06T10:37:10Z" finished-at="2018-12-06T10:37:11Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:tests.TestClass@27efef64]" name="setup" is-config="true" duration-ms="6932" started-at="2018-12-06T10:10:44Z" finished-at="2018-12-06T10:10:51Z">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:tests.TestClass@27efef64]" name="setup" is-config="true" duration-ms="4570" started-at="2018-12-06T10:37:11Z" finished-at="2018-12-06T10:37:16Z">
           <params>
             <param index="0">
               <value>
@@ -56,11 +56,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="Third()[pri:0, instance:tests.TestClass@27efef64]" name="Third" duration-ms="17" started-at="2018-12-06T10:10:51Z" finished-at="2018-12-06T10:10:51Z">
+        <test-method status="PASS" signature="Third()[pri:0, instance:tests.TestClass@27efef64]" name="Third" duration-ms="19" started-at="2018-12-06T10:37:16Z" finished-at="2018-12-06T10:37:16Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Third -->
-        <test-method status="PASS" signature="teardown()[pri:0, instance:tests.TestClass@27efef64]" name="teardown" is-config="true" duration-ms="897" started-at="2018-12-06T10:10:51Z" finished-at="2018-12-06T10:10:52Z">
+        <test-method status="PASS" signature="teardown()[pri:0, instance:tests.TestClass@27efef64]" name="teardown" is-config="true" duration-ms="801" started-at="2018-12-06T10:37:16Z" finished-at="2018-12-06T10:37:17Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->

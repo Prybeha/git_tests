@@ -1,31 +1,37 @@
-import org.junit.Assert;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
-import org.testng.annotations.AfterClass;
-import org.testng.annotations.BeforeClass;
-import org.testng.annotations.Test;
-
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
+import org.testng.annotations.*;
+import ru.yandex.qatools.allure.annotations.Description;
+import ru.yandex.qatools.allure.annotations.Title;
+import static org.testng.Assert.assertEquals;
 
 public class TestClass {
     private static WebDriver driver;
+    private static WebDriverWait wait;
 
-    @BeforeClass
+    @BeforeMethod
     public static void BeforeActions(){
         System.setProperty("webdriver.chrome.driver", "C:\\SeleniumDrivers\\chromedriver.exe");
         driver = new ChromeDriver();
-    }
-
-    @Test
-    public void TestSearch(){
+        wait = new WebDriverWait(driver,5);
         driver.get("http://google.in");
-        String Expectedtitle = "Google";
-        String Actualtitle = driver.getTitle();
-        System.out.println("Before Assetion " + Expectedtitle + Actualtitle);
-        Assert.assertEquals(Actualtitle, Expectedtitle);
-        System.out.println("After Assertion " + Expectedtitle + Actualtitle + " Title matched ");
     }
 
-    @AfterClass
+    @Title("Title check")
+    @Description("Checking the title of the loaded page.")
+    @Test
+    public void searchTest(){
+        wait.until(ExpectedConditions.titleIs("Google"));
+        String title = driver.getTitle();
+        LogUtil.log("Title Fetched: "+title);
+        assertEquals(title,"Google");
+        LogUtil.log("Test Passed. Expected: Google | Actual: "+title);
+        System.out.println("Page Loaded");
+    }
+
+    @AfterMethod
     public static void AfterActions(){
         driver.quit();
     }
