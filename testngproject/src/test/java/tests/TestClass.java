@@ -9,14 +9,14 @@ import utils.ExtentsReports.ExtentTestManager;
 public class TestClass extends SetupClass {
     private TestLinkResults Test = new TestLinkResults(); //object that used for update status in testlink
 
-    @Test(groups = {"first"})
+    @Test
     public void First() throws Exception{
         ExtentTestManager.getTest().setDescription("First test");
         wait.until(ExpectedConditions.titleIs("Google"));
         String Expectedtitle = "Google123";
         String Actualtitle = driver.getTitle();
         try {
-            //assert Actualtitle.equals(Expectedtitle);
+            assert Actualtitle.equals(Expectedtitle);
             Test.TestLinkPass("FirstTestCase");
         }
         catch(AssertionError ex){
@@ -24,7 +24,7 @@ public class TestClass extends SetupClass {
         }
     }
 
-    @Test(groups = {"second"})
+    @Test
     public void Second() throws Exception{
         ExtentTestManager.getTest().setDescription("Second test");
         try {
@@ -36,7 +36,7 @@ public class TestClass extends SetupClass {
         }
     }
 
-    @Test(groups = {"third"})
+    @Test
     public void Third() throws Exception{
         ExtentTestManager.getTest().setDescription("Third test");
         try {

@@ -26,7 +26,7 @@ public class SetupClass {
             driver = new ChromeDriver();
         }
         else if (browser.equalsIgnoreCase("firefox")){
-            System.setProperty("webdriver.gecko.marionette", "C:\\SeleniumDrivers\\geckodriver.exe");
+            System.setProperty("webdriver.gecko.driver", "C:\\SeleniumDrivers\\geckodriver.exe");
             FirefoxOptions options = new FirefoxOptions();
             options.setLogLevel(FirefoxDriverLogLevel.INFO);
             driver = new FirefoxDriver(options);

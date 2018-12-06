@@ -145,3 +145,18 @@
 2018-12-05 17:54:14 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
 2018-12-05 17:54:14 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
 2018-12-05 17:54:14 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/vprybeha/AppData/Local/Temp/surefire8332340820859365481/..%5C..%5C..%5C..%5C.m2%5Crepository%5Ccom%5Crelevantcodes%5Cextentreports%5C2.41.2%5Cextentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-12-05 18:00:54 INFO  TestLinkResults:29 - Test case is passed
+2018-12-05 18:01:03 INFO  TestLinkResults:29 - Test case is passed
+2018-12-05 18:18:02 INFO  TestLinkResults:29 - Test case is passed
+2018-12-05 18:18:14 INFO  TestLinkResults:29 - Test case is passed
+2018-12-05 18:26:34 INFO  TestLinkResults:29 - Test case is passed
+2018-12-05 18:26:45 INFO  TestLinkResults:29 - Test case is passed
+2018-12-05 18:27:44 INFO  TestLinkResults:29 - Test case is passed
+2018-12-05 18:27:54 INFO  TestLinkResults:29 - Test case is passed
+2018-12-05 18:32:18 INFO  TestLinkResults:29 - Test case is passed
+2018-12-05 18:32:30 INFO  TestLinkResults:29 - Test case is passed
+2018-12-05 19:55:59 INFO  TestLinkResults:29 - Test case is passed
+2018-12-06 11:59:16 INFO  TestLinkResults:29 - Test case is passed
+2018-12-06 11:59:28 INFO  TestLinkResults:29 - Test case is passed
+2018-12-06 12:10:31 ERROR TestLinkResults:23 - Test case is failed
+2018-12-06 12:10:43 INFO  TestLinkResults:29 - Test case is passed
