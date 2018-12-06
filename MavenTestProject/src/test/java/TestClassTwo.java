@@ -8,7 +8,7 @@ import support.SetupClass;
 
 import static org.testng.Assert.assertEquals;
 
-public class TestClass extends SetupClass {
+public class TestClassTwo extends SetupClass {
 
     @Title("Title check")
     @Description("Checking the title of the loaded page.")

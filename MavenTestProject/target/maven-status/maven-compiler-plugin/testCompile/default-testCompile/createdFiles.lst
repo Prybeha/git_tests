@@ -1,2 +1,3 @@
-LogUtil.class
+support\LogUtil.class
+support\SetupClass.class
 TestClass.class
