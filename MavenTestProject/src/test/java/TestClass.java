@@ -16,7 +16,7 @@ public class TestClass {
     public static void BeforeActions(){
         System.setProperty("webdriver.chrome.driver", "C:\\SeleniumDrivers\\chromedriver.exe");
         driver = new ChromeDriver();
-        wait = new WebDriverWait(driver,5);
+        wait = new WebDriverWait(driver,5,300);
         driver.get("http://google.in");
     }
 
@@ -27,7 +27,7 @@ public class TestClass {
         wait.until(ExpectedConditions.titleIs("Google"));
         String title = driver.getTitle();
         LogUtil.log("Title Fetched: "+title);
-        assertEquals(title,"Google123");
+        assertEquals(title,"Google");
         LogUtil.log("Test Passed. Expected: Google | Actual: "+title);
         System.out.println("Page Loaded");
     }
@@ -35,12 +35,13 @@ public class TestClass {
     @Title("Second test")
     @Description("Find some thing in google")
     @Test
-    public void searchSomething(){
+    public void searchSomething() throws Exception{
         wait.until(ExpectedConditions.titleIs("Google"));
+        //Thread.sleep(500);
         driver.findElement(By.name("q")).sendKeys("Maven");
         driver.findElement(By.name("btnK")).click();
         LogUtil.log("Maven page request");
-        assertEquals(driver.getCurrentUrl(),"https://www.google.co.in/search?source=hp&ei=YDIJXLbCIIiTsAG165eQBw&q=Maven&btnK=%D0%9F%D0%BE%D1%88%D1%83%D0%BA+Google&oq=Maven&gs_l=psy-ab.3..0l10.111011.116882..117455...6.0..0.73.790.12......0....1..gws-wiz.....0..0i131j0i10.OIF_djpsDJE");
+        assertEquals(driver.findElement(By.name("q")).getAttribute("value"),"Maven");
         LogUtil.log("URLs are equals.");
     }
 

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1544108356237" stop="1544108373071" version="1.5.4" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Suite1 : ChromeTests</name>
+    <title>Suite1 : ChromeTests</title>
+    <test-cases>
+        <test-case start="1544108364493" stop="1544108366537" status="passed">
+            <name>searchSomething</name>
+            <title>Second test</title>
+            <description type="text">Find some thing in google</description>
+            <steps>
+                <step start="1544108366449" stop="1544108366453" status="passed">
+                    <name>log[Maven page request]</name>
+                    <title>Maven page request</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1544108366531" stop="1544108366531" status="passed">
+                    <name>log[URLs are equals.]</name>
+                    <title>URLs are equals.</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite1"/>
+                <label name="testGroup" value="ChromeTests"/>
+                <label name="testClass" value="TestClass"/>
+                <label name="testMethod" value="searchSomething"/>
+                <label name="host" value="vprybeha-w7"/>
+                <label name="thread" value="10040@vprybeha-w7.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1544108372122" stop="1544108372157" status="passed">
+            <name>searchTest</name>
+            <title>Title check</title>
+            <description type="text">Checking the title of the loaded page.</description>
+            <steps>
+                <step start="1544108372155" stop="1544108372155" status="passed">
+                    <name>log[Title Fetched: Google]</name>
+                    <title>Title Fetched: Google</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1544108372156" stop="1544108372156" status="passed">
+                    <name>log[Test Passed. Expected: Google | Actual: Google]</name>
+                    <title>Test Passed. Expected: Google | Actual: Google</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite1"/>
+                <label name="testGroup" value="ChromeTests"/>
+                <label name="testClass" value="TestClass"/>
+                <label name="testMethod" value="searchTest"/>
+                <label name="host" value="vprybeha-w7"/>
+                <label name="thread" value="10040@vprybeha-w7.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

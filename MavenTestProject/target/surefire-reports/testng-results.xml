@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="16811" started-at="2018-12-06T14:59:16Z" finished-at="2018-12-06T14:59:33Z">
+    <groups>
+    </groups>
+    <test name="ChromeTests" duration-ms="16811" started-at="2018-12-06T14:59:16Z" finished-at="2018-12-06T14:59:33Z">
+      <class name="TestClass">
+        <test-method status="PASS" signature="BeforeActions()[pri:0, instance:TestClass@2b22a1cc]" name="BeforeActions" is-config="true" duration-ms="8038" started-at="2018-12-06T14:59:16Z" finished-at="2018-12-06T14:59:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeActions -->
+        <test-method status="PASS" signature="searchSomething()[pri:0, instance:TestClass@2b22a1cc]" name="searchSomething" duration-ms="2143" started-at="2018-12-06T14:59:24Z" finished-at="2018-12-06T14:59:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchSomething -->
+        <test-method status="PASS" signature="AfterActions()[pri:0, instance:TestClass@2b22a1cc]" name="AfterActions" is-config="true" duration-ms="997" started-at="2018-12-06T14:59:26Z" finished-at="2018-12-06T14:59:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterActions -->
+        <test-method status="PASS" signature="BeforeActions()[pri:0, instance:TestClass@2b22a1cc]" name="BeforeActions" is-config="true" duration-ms="4580" started-at="2018-12-06T14:59:27Z" finished-at="2018-12-06T14:59:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeActions -->
+        <test-method status="PASS" signature="searchTest()[pri:0, instance:TestClass@2b22a1cc]" name="searchTest" duration-ms="37" started-at="2018-12-06T14:59:32Z" finished-at="2018-12-06T14:59:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchTest -->
+        <test-method status="PASS" signature="AfterActions()[pri:0, instance:TestClass@2b22a1cc]" name="AfterActions" is-config="true" duration-ms="852" started-at="2018-12-06T14:59:32Z" finished-at="2018-12-06T14:59:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterActions -->
+      </class> <!-- TestClass -->
+    </test> <!-- ChromeTests -->
+  </suite> <!-- Suite1 -->
+</testng-results>
