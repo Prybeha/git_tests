@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ns2:test-suite start="1544098859439" stop="1544098870601" version="1.5.4" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+<ns2:test-suite start="1544099313196" stop="1544099322636" version="1.5.4" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
     <name>Suite1 : ChromeTests</name>
     <title>Suite1 : ChromeTests</title>
     <test-cases>
-        <test-case start="1544098869239" stop="1544098869518" status="passed">
+        <test-case start="1544099321356" stop="1544099321551" status="passed">
             <name>searchTest</name>
             <title>Title check</title>
             <description type="text">Checking the title of the loaded page.</description>
             <steps>
-                <step start="1544098869488" stop="1544098869493" status="passed">
+                <step start="1544099321530" stop="1544099321534" status="passed">
                     <name>log[Title Fetched: Google]</name>
                     <title>Title Fetched: Google</title>
                     <attachments/>
                     <steps/>
                 </step>
-                <step start="1544098869504" stop="1544098869504" status="passed">
+                <step start="1544099321545" stop="1544099321545" status="passed">
                     <name>log[Test Passed. Expected: Google | Actual: Google]</name>
                     <title>Test Passed. Expected: Google | Actual: Google</title>
                     <attachments/>
@@ -28,7 +28,7 @@
                 <label name="testClass" value="TestClass"/>
                 <label name="testMethod" value="searchTest"/>
                 <label name="host" value="vprybeha-w7"/>
-                <label name="thread" value="2848@vprybeha-w7.main(1)"/>
+                <label name="thread" value="8740@vprybeha-w7.main(1)"/>
             </labels>
         </test-case>
     </test-cases>

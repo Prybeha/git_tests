@@ -2,34 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ccfcdc41-acf8-4282-9b61-98cf3133d235" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../MavenTestProject/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MavenTestProject/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MavenTestProject/src/test/java/LogUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MavenTestProject/src/test/resources/testng.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MavenTestProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MavenTestProject/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MavenTestProject/MavenTestProject.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../MavenTestProject/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MavenTestProject/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MavenTestProject/src/test/java/TestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MavenTestProject/src/test/java/TestClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MavenTestProject/target/test-classes/TestClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MavenTestProject/target/test-classes/TestClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MavenTestProject/target/allure-results/cb97d7d9-a1db-4498-bb81-baf02a13b020-testsuite.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MavenTestProject/target/surefire-reports/2018-12-06T14-20-55_103.dump" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MavenTestProject/target/surefire-reports/Suite1/ChromeTests.html" beforeDir="false" afterPath="$PROJECT_DIR$/../MavenTestProject/target/surefire-reports/Suite1/ChromeTests.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MavenTestProject/target/surefire-reports/Suite1/ChromeTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MavenTestProject/target/surefire-reports/Suite1/ChromeTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MavenTestProject/target/surefire-reports/TEST-TestSuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MavenTestProject/target/surefire-reports/TEST-TestSuite.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MavenTestProject/target/surefire-reports/TestSuite.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../MavenTestProject/target/surefire-reports/TestSuite.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MavenTestProject/target/surefire-reports/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/../MavenTestProject/target/surefire-reports/emailable-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MavenTestProject/target/surefire-reports/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../MavenTestProject/target/surefire-reports/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MavenTestProject/target/surefire-reports/junitreports/TEST-TestClass.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MavenTestProject/target/surefire-reports/junitreports/TEST-TestClass.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MavenTestProject/target/surefire-reports/old/Suite1/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/../MavenTestProject/target/surefire-reports/old/Suite1/methods-alphabetical.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MavenTestProject/target/surefire-reports/old/Suite1/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/../MavenTestProject/target/surefire-reports/old/Suite1/methods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MavenTestProject/target/surefire-reports/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MavenTestProject/target/surefire-reports/testng-results.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExtentReports/ExtentReportResults.html" beforeDir="false" afterPath="$PROJECT_DIR$/ExtentReports/ExtentReportResults.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/TestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/TestClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/Logging.log" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/Logging.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/MavenTestProject-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/MavenTestProject-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2018-12-06T11-58-57_642.dump" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2018-12-06T12-10-09_327.dump" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Suite1/ChromeTests.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/Suite1/ChromeTests.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Suite1/ChromeTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/Suite1/ChromeTests.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-tests.TestClass.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-tests.TestClass.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Suite1/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Suite1/methods-alphabetical.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Suite1/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Suite1/methods.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Logging.log" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Logging.log" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -259,7 +246,7 @@
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544098946910" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544099334618" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../MavenTestProject" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15039062" />
