@@ -2,7 +2,9 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.testng.annotations.*;
 import ru.yandex.qatools.allure.annotations.Description;
+import ru.yandex.qatools.allure.annotations.Severity;
 import ru.yandex.qatools.allure.annotations.Title;
+import ru.yandex.qatools.allure.model.SeverityLevel;
 import support.LogUtil;
 import support.SetupClass;
 
@@ -12,6 +14,7 @@ public class TestClassTwo extends SetupClass {
 
     @Title("Title check")
     @Description("Checking the title of the loaded page.")
+    @Severity(SeverityLevel.TRIVIAL)
     @Test
     public void searchTest(){
         String title = driver.getTitle();
@@ -23,6 +26,7 @@ public class TestClassTwo extends SetupClass {
 
     @Title("Second test")
     @Description("Find something in google")
+    @Severity(SeverityLevel.TRIVIAL)
     @Test
     public void searchSomething(){
         driver.findElement(By.name("q")).sendKeys("Maven");
