@@ -30,6 +30,7 @@ public class TestClassTwo extends SetupClass {
     @Severity(SeverityLevel.TRIVIAL)
     @Test
     public void searchSomething() throws NewException{
+        // Example of using custom exception
         if("123".equals("123")) {
             throw new NewException("Wrong value income");
         }
