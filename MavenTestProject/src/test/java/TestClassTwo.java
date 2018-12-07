@@ -30,9 +30,10 @@ public class TestClassTwo extends SetupClass {
     @Severity(SeverityLevel.TRIVIAL)
     @Test
     public void searchSomething() throws NewException{
-        if("123".equals("123")) {
-            throw new NewException("Wrong value income");
-        }
+        assertEquals("1","2");
+//        if("123".equals("123")) {
+//            throw new NewException("Wrong value income");
+//        }
         System.out.println("Test Failed, but it return true because code doesn't crush");
     }
 }
