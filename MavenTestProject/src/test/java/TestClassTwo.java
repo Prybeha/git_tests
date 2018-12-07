@@ -30,10 +30,9 @@ public class TestClassTwo extends SetupClass {
     @Severity(SeverityLevel.TRIVIAL)
     @Test
     public void searchSomething() throws NewException{
-        driver.findElement(By.name("testlocator"));
-//        if("123".equals("123")) {
-//            throw new NewException("Wrong value income");
-//        }
+        if("123".equals("123")) {
+            throw new NewException("Wrong value income");
+        }
         System.out.println("Test Failed, but it return true because code doesn't crush");
     }
 }
