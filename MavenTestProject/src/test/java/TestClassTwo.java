@@ -30,7 +30,7 @@ public class TestClassTwo extends SetupClass {
     @Severity(SeverityLevel.TRIVIAL)
     @Test
     public void searchSomething() throws NewException{
-        assertEquals("1","2");
+        driver.findElement(By.name("testlocator"));
 //        if("123".equals("123")) {
 //            throw new NewException("Wrong value income");
 //        }
