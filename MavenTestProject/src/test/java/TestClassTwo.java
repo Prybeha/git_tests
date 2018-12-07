@@ -6,6 +6,7 @@ import ru.yandex.qatools.allure.annotations.Severity;
 import ru.yandex.qatools.allure.annotations.Title;
 import ru.yandex.qatools.allure.model.SeverityLevel;
 import support.LogUtil;
+import support.NewException;
 import support.SetupClass;
 
 import static org.testng.Assert.assertEquals;
@@ -28,12 +29,10 @@ public class TestClassTwo extends SetupClass {
     @Description("Find something in google")
     @Severity(SeverityLevel.TRIVIAL)
     @Test
-    public void searchSomething(){
-        try {
-            assertEquals(1, 2);
+    public void searchSomething() throws NewException{
+        if("123".equals("123")) {
+            throw new NewException("Wrong value income");
         }
-        catch(AssertionError e){
-            System.out.println("Test Failed, but it return true because code doesn't crush");
-        }
+        System.out.println("Test Failed, but it return true because code doesn't crush");
     }
 }

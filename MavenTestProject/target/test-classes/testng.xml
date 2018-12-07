@@ -1,9 +1,10 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
 
-<suite name="Suite1" verbose="1" >
-    <test name="ChromeTests" >
+<suite name="Suite" verbose="1" >
+    <test name="Tests" >
         <classes>
             <class name="TestClass"/>
+            <class name="TestClassTwo"/>
         </classes>
     </test>
 </suite>
