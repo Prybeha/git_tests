@@ -4,44 +4,8 @@
     <list default="true" id="ccfcdc41-acf8-4282-9b61-98cf3133d235" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../MavenTestProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MavenTestProject/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MavenTestProject/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MavenTestProject/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MavenTestProject/target/allure-results/98788178-8bec-40ef-860f-2c41420f16b5-testsuite.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MavenTestProject/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MavenTestProject/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MavenTestProject/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MavenTestProject/target/surefire-reports/2018-12-06T14-28-28_542.dump" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MavenTestProject/target/surefire-reports/Suite1/ChromeTests.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MavenTestProject/target/surefire-reports/Suite1/ChromeTests.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MavenTestProject/target/surefire-reports/TEST-TestSuite.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MavenTestProject/target/surefire-reports/TestSuite.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MavenTestProject/target/surefire-reports/bullet_point.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MavenTestProject/target/surefire-reports/collapseall.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MavenTestProject/target/surefire-reports/emailable-report.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MavenTestProject/target/surefire-reports/failed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MavenTestProject/target/surefire-reports/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MavenTestProject/target/surefire-reports/jquery-1.7.1.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MavenTestProject/target/surefire-reports/junitreports/TEST-TestClass.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MavenTestProject/target/surefire-reports/navigator-bullet.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MavenTestProject/target/surefire-reports/old/Suite1/ChromeTests.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MavenTestProject/target/surefire-reports/old/Suite1/classes.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MavenTestProject/target/surefire-reports/old/Suite1/groups.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MavenTestProject/target/surefire-reports/old/Suite1/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MavenTestProject/target/surefire-reports/old/Suite1/main.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MavenTestProject/target/surefire-reports/old/Suite1/methods-alphabetical.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MavenTestProject/target/surefire-reports/old/Suite1/methods-not-run.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MavenTestProject/target/surefire-reports/old/Suite1/methods.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MavenTestProject/target/surefire-reports/old/Suite1/reporter-output.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MavenTestProject/target/surefire-reports/old/Suite1/testng.xml.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MavenTestProject/target/surefire-reports/old/Suite1/toc.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MavenTestProject/target/surefire-reports/old/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MavenTestProject/target/surefire-reports/passed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MavenTestProject/target/surefire-reports/skipped.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MavenTestProject/target/surefire-reports/testng-reports.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MavenTestProject/target/surefire-reports/testng-reports.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MavenTestProject/target/surefire-reports/testng-results.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MavenTestProject/target/surefire-reports/testng.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MavenTestProject/target/test-classes/LogUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MavenTestProject/target/test-classes/TestClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MavenTestProject/target/test-classes/testng.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MavenTestProject/src/test/resources/categories.json" beforeDir="false" afterPath="$PROJECT_DIR$/../MavenTestProject/src/test/resources/categories.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MavenTestProject/src/test/resources/environment.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../MavenTestProject/src/test/resources/environment.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -57,7 +21,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-510">
+            <state relative-caret-position="255">
               <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
             </state>
           </provider>
@@ -66,8 +30,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/tests/SupportClasses/SetupClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="21" column="17" lean-forward="true" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+            <state relative-caret-position="187">
+              <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1411#1412#0" expanded="true" />
@@ -80,8 +44,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/tests/TestClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="369">
-              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+            <state relative-caret-position="357">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -92,8 +56,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/tests/SupportClasses/TestLinkResults.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="545">
-              <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+            <state relative-caret-position="561">
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -101,19 +65,19 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/resources/testng.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="442">
-              <caret line="26" column="18" lean-forward="true" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
+              <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/utils/Listeners/Retry.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="511">
+            <state relative-caret-position="612">
               <caret line="36" column="83" selection-start-line="36" selection-start-column="83" selection-end-line="36" selection-end-column="83" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -198,7 +162,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -265,6 +228,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -272,7 +236,7 @@
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544190439457" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544207244621" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../MavenTestProject" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15039062" />
@@ -396,7 +360,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14605543" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14765458" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -405,7 +369,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32900432" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.30952382" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.30952382" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -539,16 +503,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/tests/FirefoxTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/FirefoxTest.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/utils/Listeners/TestListener.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -563,16 +518,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/tests/TestOne.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="57" lean-forward="true" selection-start-line="9" selection-start-column="57" selection-end-line="9" selection-end-column="57" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/TestOne.java" />
     <entry file="file://$PROJECT_DIR$/src/test/resources/Logging.log">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="585">
@@ -580,27 +526,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/utils/Listeners/Retry.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="511">
-          <caret line="36" column="83" selection-start-line="36" selection-start-column="83" selection-end-line="36" selection-end-column="83" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-510">
+        <state relative-caret-position="255">
           <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/tests/SupportClasses/SetupClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="21" column="17" lean-forward="true" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+        <state relative-caret-position="187">
+          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1411#1412#0" expanded="true" />
@@ -611,8 +547,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/tests/TestClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="369">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        <state relative-caret-position="357">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -621,8 +557,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/tests/SupportClasses/TestLinkResults.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="545">
-          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+        <state relative-caret-position="561">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -632,7 +568,17 @@
     <entry file="file://$PROJECT_DIR$/src/test/resources/testng.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
-          <caret line="26" column="18" lean-forward="true" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
+          <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/utils/Listeners/Retry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="83" selection-start-line="36" selection-start-column="83" selection-end-line="36" selection-end-column="83" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

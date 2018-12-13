@@ -1,8 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: TestSuite
 -------------------------------------------------------------------------------
-Tests run: 4, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 29.48 s <<< FAILURE! - in TestSuite
-searchSomething(TestClassTwo)  Time elapsed: 0.038 s  <<< FAILURE!
+Tests run: 4, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 57.598 s <<< FAILURE! - in TestSuite
+searchSomething(TestClassTwo)  Time elapsed: 0.074 s  <<< FAILURE!
 support.NewException: Wrong value income
-	at TestClassTwo.searchSomething(TestClassTwo.java:34)
+	at TestClassTwo.searchSomething(TestClassTwo.java:35)
 
